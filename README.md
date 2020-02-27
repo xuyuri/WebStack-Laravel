@@ -1,7 +1,7 @@
 # WebStack-Laravel
 更新：
 加入了搜索框、懒加载和一些其他完善
-demo:www.open356.com
+demo: http://1.best
 
 以下为原文档：
 
