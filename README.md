@@ -1,7 +1,13 @@
-# WebStack-Laravel
+# WebStack-Laravel 魔改
+感谢原作者和众多网友的努力  
 更新：
-加入了搜索框、懒加载和一些其他完善
-demo: http://1.best
+加入了搜索框、懒加载和一些其他完善  
+demo: http://webstack.open356.com  
+
+```
+新做了个导航  demo: https://open985.com
+开源地址: https://github.com/CrazyBoyM/geeknav
+```
 
 以下为原文档：
 
