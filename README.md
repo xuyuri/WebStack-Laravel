@@ -44,7 +44,7 @@ DB_USERNAME=username
 DB_PASSWORD=password
 ...
 ```
-**注意：**这里需要先手动创建一个DB，例如webstack
+注意：这里需要先手动创建一个DB，例如webstack
 ```
 CREATE DATABASE `webstack` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci */
 ```
